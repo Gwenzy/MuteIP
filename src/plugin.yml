@@ -1,0 +1,11 @@
+name: MuteIP
+main: fr.gwenzy.muteip.main.Main
+version: 1.0
+author: Gwenzy
+commands:
+  muteip:
+    usage: /muteip <Joueur/IP> <Valeur>
+    description: Mute l'ip du joueur
+  unmuteip:
+    usage: /unmuteip <Joueur/IP> <Valeur>
+    description: Unmute l'ip du joueur
